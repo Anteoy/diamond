@@ -1,0 +1,2 @@
+# diamond
+diamond for rust
